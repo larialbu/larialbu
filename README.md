@@ -1,7 +1,7 @@
 ### Hello, world! Eu sou a Lari Albuquerque👋
 
 Atualmente estou cursando sistemas para internet na universidade católica de pernambuco. Estou no segundo periodo do curso e vou mostar aqui toda a minha evolucao! <br><br>
-💻Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. <br><br> -Samuel Custódio💻
+"Não há substituto a assistir e ouvir pessoas reais em primeira mão." <br> -Larry Page, Founder, Google <br>
 
 <div>
 <a href="https://beacons.ai/larialbu">

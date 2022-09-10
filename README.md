@@ -5,8 +5,8 @@ Atualmente estou cursando sistemas para internet na universidade católica de pe
 
 <div>
 <a href="https://beacons.ai/larialbu">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=larialbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&layout=compact&langs_count=7&theme=dark" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=larialbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>

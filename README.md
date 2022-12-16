@@ -8,7 +8,9 @@ Atualmente estou cursando sistemas para internet na universidade católica de pe
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

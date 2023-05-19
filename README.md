@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, world! Eu sou a Lari Albuquerque👋<br>
-Atualmente estou cursando sistemas para internet na universidade católica de pernambuco e vou mostar aqui toda a minha evolucao!<br><br>"Não há substituto a assistir e ouvir pessoas reais em primeira mão."<br>-Larry Page, Founder, Google
+Atualmente estou cursando sistemas para internet na universidade católica de pernambuco e vou mostar aqui toda a minha evolução!<br><br>"Não há substituto a assistir e ouvir pessoas reais em primeira mão."<br>-Larry Page, Founder, Google
 
 
 ## 🌐 Socials:

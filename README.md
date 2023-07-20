@@ -13,9 +13,6 @@ Atualmente estou cursando sistemas para internet na universidade católica de pe
 ![](https://github-readme-streak-stats.herokuapp.com/?user=larialbu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/larialbu/larialbu/blob/output/github-contribution-grid-snake.svg)

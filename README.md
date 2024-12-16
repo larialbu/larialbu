@@ -2,7 +2,7 @@
 ---
 
 ## Hello, world! Eu sou a Lari Albuquerque👋<br><br>
-- 👩🏻‍💻 Sou um desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
+- 👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
 - ⚡ Formada em SI na UNICAP<br>
 - 👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
 
